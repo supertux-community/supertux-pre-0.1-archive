@@ -1,0 +1,99 @@
+
+This document describes both the level format and
+the level editor.
+
+= LEVEL FORMAT =
+
+
+HEAD:
+--------
+
+1. Name of the level.
+2. The theme of the level. The game will look in "supertuxdir/data/images/theme"
+3. The time you have to finish the level.
+4. Defines the music file, which should be played.
+5,6,7. RGB values for the background of the level.
+8. Defines the level's length.
+
+Example:
+----------
+Antarctica
+antarctica
+240
+ji_turn.it
+128
+192
+255
+375
+
+MAIN:
+-------
+ 
+Levels are created with the following characters:
+(15 lines and as many columns as defined in the seventh line of the levelfile)
+
+X/x <- Brick0
+Y/y <- Brick1
+A/B/! <- Box full
+a <- Box empty
+C-F <- Cloud0
+c-f <- Cloud1
+G-J <- Bkgd0
+g-j <- Bkgd1
+# <- Solid0
+[ <- Solid1
+= <- Solid2
+] <- Solid3
+$ <- Distro
+^ <- Waves
+* <- Poletop
+| <- Pole
+\ <- Flag
+& <- Water
+
+Bad guys:
+
+0 <- BluescreenOfDeath
+1 <- Laptop
+2 <- Money
+
+= BUILT-IN LEVEL EDITOR =
+
+
+USING THE BUILT-IN LEVEL EDITOR:
+--------------------------------
+
+When opening the leveleditor, a menu will appear. This
+menu can be used to select or add level subsets.
+A level subset is a collection of levels. Subsets can be chose
+during gameplay when starting a game.
+
+After selecting the subset, have a look at the level editor.
+The button bar in the right is the place where you can control
+the actions related with editing. You can select levels and add
+throught there.
+To select tiles (foreground or background) and enemies, the button
+bar is the right place. There you can also save, test and setup
+the level. It is also possible between two selection cursors! Give
+a try to both.
+A right click in a button bar button will give you a description
+and a shortcut for it.
+
+To change a tile, just press the tile you want to change with a
+mouse left click. The current tile will be used. Depending
+on the selection behavior, you can or not select more
+than one tiles.
+To scroll, you just have to point over the two arrow buttons, or
+use the right button click.
+
+There is a small help that can be reached by pressing F1.
+
+To go back to the menu, just press Esc.
+
+Now, do lots of levels and HAVE FUN!!
+
+Please, send your levels or any art you created to the SuperTux's
+mailinglist or to the maintainer (look at AUTHORS.txt).
+
+
+SuperTux developers

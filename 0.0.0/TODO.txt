@@ -1,0 +1,21 @@
+TODO.txt for Super Tux
+
+by Bill Kendrick
+bill@newbreedsoftware.com
+http://www.newbreedsoftware.com/supertux/
+
+Version 0.0.0
+
+April 30, 2000
+
+
+TO DO
+-----
+  Music
+  More sound effects
+  Skidding Tux images
+  Jumping Tux images
+  One-ups
+  More enemies
+  More levels
+

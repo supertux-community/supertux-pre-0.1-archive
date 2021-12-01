@@ -1,0 +1,33 @@
+FAQ.txt for Super Tux
+
+by Bill Kendrick
+bill@newbreedsoftware.com
+http://www.newbreedsoftware.com/supertux/
+
+Version 0.0.0
+
+April 11, 2000
+
+
+-----------------------------------------------------------------------------
+
+PROBLEM:
+When compiling, there's an error about SDL_JOYAXISMOTION not being defined.
+
+  CAUSE:
+  The version of SDL you have does not support joysticks.
+
+    SOLUTION:
+    Recompile with the "make JOY=NO".  Note: run "make clean" first.
+
+    SOLUTION:
+    Get SDL version 1.1.2 or higher.
+
+-----------------------------------------------------------------------------
+
+If you have a question you think would be suitable for this FAQ, please
+e-mail me:
+
+  bill@newbreedsoftware.com
+
+Thank you!

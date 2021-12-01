@@ -1,0 +1,4 @@
+SUBDIRS = src data
+
+# EOF #
+
