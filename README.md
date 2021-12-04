@@ -6,9 +6,16 @@ This repository is used for archiving the source code of SuperTux versions, olde
 
 Versions included here are: 0.0.0, 0.0.4, 0.0.5, 0.0.6.
 
-## Credit
+## Binaries
+
+You can find pre-build binaries for Windows in the `binaries` folder.
+
+## Credits
 
 All credit for the making of each version is contained in the specific version's `AUTHORS.txt` (or `AUTHORS`) file.
+
+* nehochupechatat - First to find the 0.0.0 SuperTux version and share it on the official SuperTux Discord server.
+* [mrkubax10](https://github.com/mrkubax10) - Provided the 0.0.0 pre-built binaries.
 
 ## Additional information
 
