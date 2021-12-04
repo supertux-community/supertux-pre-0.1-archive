@@ -8,7 +8,7 @@ Versions included here are: 0.0.0, 0.0.4, 0.0.5, 0.0.6.
 
 ## Binaries
 
-You can find pre-build binaries for Windows in the `binaries` folder.
+You can find pre-built binaries for Windows in the `binaries` folder.
 
 ## Credits
 
