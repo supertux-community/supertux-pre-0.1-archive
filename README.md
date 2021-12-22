@@ -15,7 +15,7 @@ You can find pre-built binaries for Windows in the `binaries` folder.
 All credit for the making of each version is contained in the specific version's `AUTHORS.txt` (or `AUTHORS`) file.
 
 * nehochupechatat - First to find the SuperTux 0.0.0 version and share it on the official SuperTux Discord server.
-* [mrkubax10](https://github.com/mrkubax10) - Provided the 0.0.0 pre-built binaries.
+* [mrkubax10](https://github.com/mrkubax10) - Provided pre-built binaries for Windows and Linux.
 
 ## Additional information
 
